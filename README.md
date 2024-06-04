@@ -4,10 +4,10 @@
 
 *A tool to explore the effects of stratospheric aerosol injection (SAI) on the climate.*
 
- [http://planetparasol.ai](planetparasol.ai)
+ [planetparasol.ai](http://planetparasol.ai)
 
 ## Release
-- [2024/06/03] We release the first version of the tool at [http://planetparasol.ai](planetparasol.ai)
+- [2024/06/03] We release the first version of the tool at [planetparasol.ai](http://planetparasol.ai)
 
 ## Upcoming
 - We plan to release the data, code, and models for the regional emulator used in the tool that we developed.
