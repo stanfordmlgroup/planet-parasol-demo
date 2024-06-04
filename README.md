@@ -1,8 +1,8 @@
-# Planet Parasol Demo
+# Planet Parasol Demo <img src="https://github.com/stanfordmlgroup/planet-parasol-demo/blob/master/img/logo.svg">
 
 *A tool to explore the effects of stratospheric aerosol injection (SAI) on the climate.*
 
-<img src="https://github.com/stanfordmlgroup/planet-parasol-demo/blob/master/img/logo.svg"> [http://planetparasol.ai](planetparasol.ai)
+ [http://planetparasol.ai](planetparasol.ai)
 
 ## Release
 - [2024/06/03] We release the first version of the tool at [http://planetparasol.ai](planetparasol.ai)
