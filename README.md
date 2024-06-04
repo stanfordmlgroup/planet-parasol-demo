@@ -48,6 +48,7 @@ We try to estimate the substantial uncertainties in regional temperature forecas
 \* Co-supervisors
 
 ## Acknowledgements
+We really appreciate the open source work done to support the creation of this tool, including:
 - [FaIR](https://docs.fairmodel.net/en/latest/intro.html): Our tool is built around the FaIR emulator, a simple climate model to explore the effects of different inputs on the climate.
 - [GeoMIP](https://climate.envsci.rutgers.edu/geomip/data.html): We use data from the GeoMIP experiments to develop our regional emulator.
 - [ARISE-SAI](https://www.cesm.ucar.edu/community-projects/arise-sai): We use data from the ARISE-SAI experiments to develop our regional emulator.
