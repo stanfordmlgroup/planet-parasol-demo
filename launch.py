@@ -104,7 +104,7 @@ def set_footer():
     gr.Markdown("\n\n")
     gr.Markdown(r"## Methodology 📚")
     with gr.Accordion(label="▶️ Click here to learn more about the methodology of the global and regional emulators, including important assumptions we make.", open=False, elem_classes=["my-accordion"]):
-        gr.Markdown("The code for this demo and the underlying emulators are available as open source software [here](https://github.com/stanfordmlgroup/planet_parasol_demo).")
+        gr.Markdown("The code for this demo and the underlying emulators are available as open source software [here](https://github.com/stanfordmlgroup/planet-parasol-demo).")
         gr.Markdown("**Global Emulator**")
         gr.Markdown(
             r"- The global emulator uses [FaIR](https://docs.fairmodel.net/en/latest/intro.html)." + "\n\n" +
@@ -122,7 +122,7 @@ def set_footer():
             "- _Climate model uncertainty_: We compute the standard deviation of the regional values across the 6 climate models.\n" +
             "- _Emulator uncertainty_: We compute the standard deviation of the regional values across 100 bootstrapped linear regression emulators.\n" +
             "- _Natural variability_: We compute the standard deviation of the regional values across 100 ensemble members from FaIR.\n\n" +
-            "You can find more details about the regional emulator in [the open-source code](https://github.com/stanfordmlgroup/planet_parasol_demo).",
+            "You can find more details about the regional emulator in [the open-source code](https://github.com/stanfordmlgroup/planet-parasol-demo).",
             latex_delimiters=[{"left": "$", "right": "$", "display": False}]
             )
 

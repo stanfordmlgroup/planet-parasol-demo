@@ -2,15 +2,23 @@
   <img src="img/logo.svg" alt="Logo" height="30"> Planet Parasol Demo
 </h1>
 
-*A tool to explore the effects of stratospheric aerosol injection (SAI) on the climate.*
-
- [planetparasol.ai](http://planetparasol.ai)
+*A tool to explore the effects of stratospheric aerosol injection (SAI) on the climate:  [planetparasol.ai](http://planetparasol.ai)*
 
 ## Release
-- [2024/06/03] ☁️ We release the first version of the tool at [planetparasol.ai](http://planetparasol.ai)
+[![DOI](https://zenodo.org/badge/810113867.svg)](https://zenodo.org/doi/10.5281/zenodo.11467175)
+- [2024/06/04] ☁️ We release the first version of the tool at [planetparasol.ai](http://planetparasol.ai)
 
 ## Upcoming
 - We plan to release the data, code, and models for the regional emulator used in the tool that we developed.
+
+## Background
+Stratospheric aerosol injection (SAI) uses reflective aerosols released into the upper atmosphere to reflect sunlight and thereby cool Earth's surface.
+
+Despite the strong potential of SAI to lower Earth's average surface temperature and mitigate global warming's short-term effects:
+- SAI cannot “turn back the clock” on climate change: it is not a substitute for reducing greenhouse gas emissions, which is critical to address climate change and achieve long-term sustainability
+- There are potential risks that may arise from SAI, so more research is necessary to better understand those risks and compare them to the potential benefits
+
+Our tool allows you to create different CO2 and SAI scenarios and explore their affect on future temperature. Check it out here:  [planetparasol.ai](http://planetparasol.ai).
 
 ## Methodology
 **Global Emulator**
@@ -43,4 +51,8 @@ We try to estimate the substantial uncertainties in regional temperature forecas
 - [GeoMIP](https://climate.envsci.rutgers.edu/geomip/data.html): We use data from the GeoMIP experiments to develop our regional emulator.
 - [ARISE-SAI](https://www.cesm.ucar.edu/community-projects/arise-sai): We use data from the ARISE-SAI experiments to develop our regional emulator.
 
-## Citation
+## Citing the demo
+
+If you use the Planet Parasol Demo in your work, please cite it as follows:
+
+Jeremy Irvin, Daniele Visioni, Ben Kravitz, Dakota Gruener, Chris Smith, Duncan Watson-Parris, Andrew Ng. (2024). Planet Parasol Demo (Version 1.0) [Software]. Available at GitHub: https://github.com/stanfordmlgroup/planet-parasol-demo/ and on the webpage: http://planetparasol.ai/. DOI: https://doi.org/10.5281/zenodo.11467175
