@@ -1,4 +1,4 @@
-![Header Image](img/logo.svg)
+<img src="img/logo.svg" alt="Header Image" width="200" height="200">
 # Planet Parasol Demo
 
 *A tool to explore the effects of stratospheric aerosol injection (SAI) on the climate.*
