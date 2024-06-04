@@ -2,14 +2,15 @@
   <img src="img/logo.svg" alt="Logo" height="30"> Planet Parasol Demo
 </h1>
 
+[![DOI](https://zenodo.org/badge/810113867.svg)](https://zenodo.org/doi/10.5281/zenodo.11467175)
+
 *A tool to explore the effects of stratospheric aerosol injection (SAI) on the climate:  [planetparasol.ai](http://planetparasol.ai)*
 
 ## Release
-[![DOI](https://zenodo.org/badge/810113867.svg)](https://zenodo.org/doi/10.5281/zenodo.11467175)
-- [2024/06/04] ☁️ We release the first version of the tool at [planetparasol.ai](http://planetparasol.ai)
+- [2024/06/04] ☁️ We release the first version of the tool at [planetparasol.ai](http://planetparasol.ai)!
 
 ## Upcoming
-- We plan to release the data, code, and models for the regional emulator used in the tool that we developed.
+- We plan to release the data, code, and models for the regional emulator that we developed for the tool.
 
 ## Background
 Stratospheric aerosol injection (SAI) uses reflective aerosols released into the upper atmosphere to reflect sunlight and thereby cool Earth's surface.
@@ -18,7 +19,7 @@ Despite the strong potential of SAI to lower Earth's average surface temperature
 - SAI cannot “turn back the clock” on climate change: it is not a substitute for reducing greenhouse gas emissions, which is critical to address climate change and achieve long-term sustainability
 - There are potential risks that may arise from SAI, so more research is necessary to better understand those risks and compare them to the potential benefits
 
-Our tool allows you to create different CO2 and SAI scenarios and explore their affect on future temperature. Check it out here:  [planetparasol.ai](http://planetparasol.ai).
+Our tool allows you to create different CO2 and SAI scenarios and explore their effect on future temperature. Check it out here:  [planetparasol.ai](http://planetparasol.ai).
 
 ## Methodology
 **Global Emulator**
